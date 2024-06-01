@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Image Converter</string>
+    <string-array name="images_formats">
+        <item>Png</item>
+        <item>Jpeg</item>
+        <item>Webp</item>
+    </string-array>
+
+
+</resources>
